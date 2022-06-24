@@ -1,8 +1,8 @@
 import { companyLogo, twitterLogo } from '../assets';
 
 export const headerDetails = {
-  name: 'The Graph FilGood NFTs',
-  title: '100 personalised NFTs for Filecoin @ The Graph 2022',
+  name: 'Hack to Earn Metaverse',
+  title: 'We build a community of hackers',
   imageAlt: 'The Graph NFT Logo',
   href: 'https://hackathons.filecoin.io/',
   logo: companyLogo
