@@ -9,8 +9,8 @@ export const headerDetails = {
 };
 
 export const authorDetails = {
-  name: 'DeveloperAlly',
-  href: 'https://twitter.com/developerally',
+  name: 'TheMetaDAO',
+  href: 'https://twitter.com/theemetadao',
   imageAlt: 'Twitter Logo',
   logo: twitterLogo
 };
