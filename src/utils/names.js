@@ -4,7 +4,7 @@ export const headerDetails = {
   name: 'Hack to Earn Metaverse',
   title: 'We build a community of hackers',
   imageAlt: 'The Graph NFT Logo',
-  href: 'https://hackathons.filecoin.io/',
+  href: 'https://chain4change.xyz/',
   logo: companyLogo
 };
 
@@ -17,6 +17,6 @@ export const authorDetails = {
 
 export const mainDetails = {
   imageAlt: 'Filecoin Foundation Logo',
-  href: 'https://filecoin.io/build',
+  href: 'https://chain4change.xyz',
   logo: companyLogo
 };
